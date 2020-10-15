@@ -1,16 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
  
- // ARRAY Tanım
+ // ARRAY TanÄ±m
  
 int main()
 {
 	
-	// i[10] demek i arrayin içinde 10 tane sayi var demek.
-	// Unutulmaması gereken i[0]'dan başlar i[9]'a kadar gider;
+	// i[10] demek i arrayin iÃ§inde 10 tane sayi var demek.
+	// UnutulmamasÄ± gereken i[0]'dan baÅŸlar i[9]'a kadar gider;
 	int i[10]={4,5,82,4,5,75,88,3,44,10};
 	
-	// Tek tek ekrana yazalım
+	// Tek tek ekrana yazalÄ±m
 	
 	printf("%d\n",i[0]);
 	printf("%d\n",i[1]);
@@ -23,7 +23,7 @@ int main()
 	printf("%d\n",i[8]);
 	printf("%d\n",i[9]);
 	
-	// Ekranda 4 5 82 4 5 75 88 3 44 ve 10 yazılacaktır.ß
+	// Ekranda 4 5 82 4 5 75 88 3 44 ve 10 yazÄ±lacaktÄ±r.
 	
 	
 
